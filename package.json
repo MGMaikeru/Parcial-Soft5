@@ -1,0 +1,15 @@
+{
+  "name": "devops-evaluation-app",
+  "version": "1.0.0",
+  "description": "Aplicación sencilla para evaluación de conceptos DevOps",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests implemented yet\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Universidad Icesi",
+  "license": "MIT"
+}
