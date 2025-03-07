@@ -45,12 +45,12 @@ Se implementó un `Dockerfile` para la creación y depliegue un proyecto de node
 
 ## Captura de Pantalla
 
-[Incluye al menos una captura de pantalla que muestre tu aplicación funcionando en el contenedor]
+![alt text](image2.png) ![alt text](image3.png) ![alt text](image1.png)
 
 ## Mejoras Futuras
 
-[Describe al menos 3 mejoras que podrían implementarse en el futuro]
+1. Integración con un Pipeline CI/CD: Automatizar la construcción, prueba y despliegue del contenedor con herramientas como Jenkins, GitHub Actions o GitLab CI/CD.
 
-## Instrucciones para Ejecutar
+2. Uso de Docker Compose para Orquestación: En lugar de un solo docker run, usar Docker Compose para gestionar múltiples servicios y configuraciones.
 
-[Instrucciones paso a paso para ejecutar tu solución]
+3. Métricas y Logging Avanzado: Implementar herramientas de monitoreo y logging para detectar problemas en tiempo real.
